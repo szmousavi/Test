@@ -1,1 +1,1 @@
-javac AESEncryption.java
+javac SecurityConfig.java
