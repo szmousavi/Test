@@ -1,1 +1,1 @@
-javac SecurityConfig.java
+javac FingerprintActivity .java
