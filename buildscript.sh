@@ -1,1 +1,1 @@
-javac FingerprintActivity .java
+javac *.java
